@@ -1,5 +1,4 @@
-1. Docker
-   What it is: Docker is a platform that allows you to create, deploy, and run applications in 
+1. Docker:Docker is a platform that allows you to create, deploy, and run applications in 
    containers.
 
    Container: A lightweight, standalone package of software that includes everything needed to run 
@@ -8,14 +7,12 @@
    Images: A Docker image is a template used to create containers. It’s a snapshot of a filesystem
    and parameters needed to run an app.
 
-2. Kubernetes (K8s)
-   What it is: Kubernetes is an open-source platform designed to orchestrate (manage, scale, and 
-   automate) containerized applications across a cluster of machines.
+2. Kubernetes (K8s): Kubernetes is an open-source platform designed to orchestrate (manage, scale, and 
+   automate) containerized applications across a cluster of machines.It helps manage many Docker 
+   containers, balancing them across servers, handling scaling, self-healing (restarting failed 
+   containers), etc.
 
-   It helps manage many Docker containers, balancing them across servers, handling scaling, self-healing (restarting failed containers), etc.
-
-3. Pods
-   What it is: A Pod is the smallest deployable unit in Kubernetes. It can contain one or more
+3. Pods: is the smallest deployable unit in Kubernetes. It can contain one or more
    containers (usually Docker containers) that share the same network and storage.
 
 Containers in a pod share:
@@ -23,8 +20,7 @@ IP address
 Port space
 Storage volumes
 
-4. Services
-   What it is: A Service in Kubernetes is a way to expose your pods to other parts of your 
+4. Services: in Kubernetes is a way to expose your pods to other parts of your 
    application or the internet.It provides a stable IP and DNS name for a set of pods and 
    load-balances traffic to them.Even if pods die and are recreated, the service stays the same, 
    ensuring continuous availability.
