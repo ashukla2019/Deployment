@@ -1,0 +1,99 @@
+
+🔶 AWS Interview Questions
+✅ Core Services & Architecture
+Explain the difference between EC2, ECS, EKS, and Lambda.
+
+What is an Auto Scaling Group (ASG)? How does it work with Load Balancer?
+
+What are placement groups in EC2?
+
+How would you architect a highly available and fault-tolerant system on AWS?
+
+When would you use S3 Standard vs S3 IA vs S3 Glacier?
+
+✅ Networking & Security
+Explain the components of a VPC.
+
+Difference between Security Groups and Network ACLs.
+
+How do NAT Gateway and Internet Gateway differ?
+
+What is a transit gateway and how does it differ from a VPN or Direct Connect?
+
+How would you restrict access to an S3 bucket?
+
+✅ IAM & Access Control
+Explain IAM policies vs roles vs users.
+
+How do you implement cross-account access in AWS?
+
+What is the principle of least privilege in IAM?
+
+✅ Monitoring & Cost Optimization
+How do you monitor services using CloudWatch?
+
+How can you reduce AWS cost in EC2, RDS, and S3?
+
+What are AWS Trusted Advisor and Cost Explorer?
+
+✅ DevOps & Automation
+Difference between CloudFormation and Terraform.
+
+What is CodePipeline and how is it used?
+
+How do you automate AMI creation and instance updates?
+
+✅ Databases
+Difference between RDS and Aurora.
+
+How does DynamoDB provide high availability and consistency?
+
+Explain backup and restore strategy for RDS.
+
+🔷 Azure Interview Questions
+✅ Core Services & Architecture
+What is the difference between Azure VM Scale Sets and Availability Sets?
+
+How does Azure App Service compare to Azure Functions?
+
+How do you design an HA architecture in Azure?
+
+What is Azure Resource Manager (ARM) and how does it work?
+
+✅ Networking & Security
+What are NSGs vs ASGs in Azure networking?
+
+What is the difference between Azure Load Balancer and Application Gateway?
+
+How does Azure Private Link work?
+
+What is the difference between VNet Peering and VPN Gateway?
+
+✅ Identity & Access
+How does Azure Active Directory (AAD) differ from on-prem AD?
+
+How do you implement RBAC in Azure?
+
+What is Managed Identity in Azure and where would you use it?
+
+✅ Monitoring & Optimization
+How do you use Azure Monitor and Log Analytics?
+
+What is Azure Advisor?
+
+How would you optimize Azure VM and Storage costs?
+
+✅ DevOps & CI/CD
+Explain the Azure DevOps pipeline architecture.
+
+How would you deploy infrastructure using ARM/Bicep/Terraform?
+
+How do you implement Blue-Green or Canary deployment in Azure?
+
+✅ Storage & Databases
+Difference between Blob Storage tiers (Hot, Cool, Archive)?
+
+Compare Azure SQL Database vs SQL Managed Instance.
+
+How do you ensure backup and DR for Azure SQL?
+
